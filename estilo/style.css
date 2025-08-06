@@ -55,7 +55,7 @@ header > h1 {
     color: var(--cor6);
     font-family: var(--font-destaque);
     font-weight: normal;
-    padding-bottom: 20px;
+    margin-bottom: 20px;
     font-size: 3em;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.24);
 }
@@ -66,8 +66,8 @@ header > p {
     color: var(--cor6);
     max-width: 600px;
     padding: 0px 10px;
-    margin: 0px auto;
-    padding-bottom: 30px;
+    margin: auto;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.24);
 }
 
